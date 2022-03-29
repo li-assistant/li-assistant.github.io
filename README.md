@@ -1,1 +1,3 @@
-# li-assistant.github.io
+# liassistant
+
+https://liassistant.com
